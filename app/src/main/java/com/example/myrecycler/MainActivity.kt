@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    private fun loadMovies() {
+    private fun loadMovies() { //datasource
         movieList.add(MovieModel("War Room","A christian movie that signifies the role of prayer in a family..", R.drawable.images))
 
     }
